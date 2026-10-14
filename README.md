@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/290b0a69-5180-4c9e-8cf9-d504b25d7c3d.jpeg?v=1791951509)](https://www.boot.dev/certificates/290b0a69-5180-4c9e-8cf9-d504b25d7c3d)
 <!--
 **mauriciodaiki/mauriciodaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
